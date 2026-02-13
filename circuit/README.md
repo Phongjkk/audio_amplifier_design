@@ -1,3 +1,3 @@
 ## Circuit
-- LTspice schematic: `circuit/audio_amplifier.asc`
+- LTspice schematic: `audio_amplifier_design.asc`
 
