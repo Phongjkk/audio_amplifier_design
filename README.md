@@ -24,6 +24,8 @@ Simulation results include:
 - Transient response
 ## Presentation
 - Canva slides: see `slides/canva_link.txt`
+## Circuit
+- LTspice schematic: `circuit/audio_amplifier.asc`
 
 ## Files Structure
 - `circuit/` : LTspice schematic and circuit files  
